@@ -29,7 +29,7 @@ Begin VB.Form Form2
       Left            =   1560
       PasswordChar    =   "*"
       TabIndex        =   2
-      Text            =   "252525qqqaa"
+      Text            =   "tupass"
       Top             =   480
       Width           =   3135
    End
